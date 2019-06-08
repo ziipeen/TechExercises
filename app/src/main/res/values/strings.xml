@@ -3,4 +3,5 @@
     <string name="edit_message">Enter a Message</string>
     <string name="button_send">Send</string>
     <string name="HG_Hello">Hello From Heather!</string>
+    <string name="ZW_Hello">Hello From Zhipeng!</string>
 </resources>
